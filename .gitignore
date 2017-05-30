@@ -1,0 +1,11 @@
+node_modules/
+.DS_*
+hooks/
+platforms/
+plugins/*
+!plugins/ios.json
+www.zip
+resources/ios/*
+www/*
+app/bower_components/*
+npm-debug
